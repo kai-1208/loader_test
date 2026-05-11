@@ -2,7 +2,7 @@
 #include "key.hpp"
 #include "serial_read.hpp"
 
-#define PWM_OUTPUT 3000
+#define PWM_OUTPUT 7000
 
 BufferedSerial pc(USBTX, USBRX, 115200);
 
